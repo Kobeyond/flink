@@ -24,7 +24,7 @@ specific language governing permissions and limitations
 under the License.
 -->
 
-# 本地模式安装
+# 本地模式安装啊
  
 {{< unstable >}}
 {{< hint info >}}
